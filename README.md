@@ -7,6 +7,16 @@
 ###
 
 <div align="left">
+
+</div>
+
+###
+
+<img align="right" height="300" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif"  />
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" alt="javascript logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="44" alt="typescript logo"  />
@@ -20,11 +30,7 @@
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="44" alt="html5 logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="44" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<div align="left">
+<br>
   <img src="https://cdn.simpleicons.org/php/777BB4" height="44" alt="php logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="44" alt="laravel logo"  />
@@ -39,10 +45,6 @@
   <img width="20" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="44" alt="figma logo"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif"  />
 
 ###
 

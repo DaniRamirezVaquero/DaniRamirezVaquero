@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="300" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif"  />
 
 ###
 
@@ -30,6 +30,7 @@
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="44" alt="html5 logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="44" alt="tailwindcss logo"  />
+<br>
 <br>
   <img src="https://cdn.simpleicons.org/php/777BB4" height="44" alt="php logo"  />
   <img width="20" />

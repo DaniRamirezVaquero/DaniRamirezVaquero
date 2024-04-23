@@ -27,7 +27,7 @@
   <img width="20" />
   <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="44" alt="amazonwebservices logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="44" alt="github logo"  />
+  <img src="https://cdn.simpleicons.org/github/D22128" height="44" alt="github logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/apache/D22128" height="44" alt="apache logo"  />
   <img width="20" />

@@ -32,6 +32,10 @@
   <img src="https://cdn.simpleicons.org/apache/D22128" height="44" alt="apache logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="44" alt="figma logo"  />
+    <img width="20" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="44" alt="java logo"  />
+    <img width="20" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="44" alt="spring logo"  />
 </div>
 
 ###

@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m @DaniRamirezVaquero<br>👀 I’m interested in learn as much as I can about web development<br>🌱 I’m currently learning angular, laravel, react, github actions, etc...<br>📫 How to reach me -> Email dramvaq@gmail.com</p>
+<p align="left">👋 Hi, I’m @DaniRamirezVaquero<br>👀 I’m interested in learn as much as I can about web development<br>🌱 I’m currently learning IA and Big Data<br>📫 How to reach me -> Email dramvaq@gmail.com</p>
 
 ###
 

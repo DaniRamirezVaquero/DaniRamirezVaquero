@@ -25,7 +25,7 @@
   <img width="20" />
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="44" alt="laravel logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/amazonaws/E85C33" height="44" alt="amazonwebservices logo"  />
+  <img src="https://cdn.simpleicons.org/python/E85C33" height="44" alt="python logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/github/FDFDFD" height="44" alt="github logo"  />
   <img width="20" />

@@ -27,7 +27,7 @@
   <img width="20" />
   <img src="https://cdn.simpleicons.org/python/E85C33" height="44" alt="python logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/github/FDFDFD" height="44" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/apache/D22128" height="44" alt="apache logo"  />
   <img width="20" />
